@@ -1,0 +1,6 @@
+C:\Users\Tehno\source\repos\Lab22\Board\bin\Debug\Board.dll
+C:\Users\Tehno\source\repos\Lab22\Board\bin\Debug\Board.pdb
+C:\Users\Tehno\source\repos\Lab22\Board\obj\Debug\BoardLogic.csproj.AssemblyReference.cache
+C:\Users\Tehno\source\repos\Lab22\Board\obj\Debug\BoardLogic.csproj.CoreCompileInputs.cache
+C:\Users\Tehno\source\repos\Lab22\Board\obj\Debug\Board.dll
+C:\Users\Tehno\source\repos\Lab22\Board\obj\Debug\Board.pdb
